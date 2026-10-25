@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ayush-nylon-brush.github.io/sitemap.xml
+Sitemap: https://www.ayushbrush.com/sitemap.xml
